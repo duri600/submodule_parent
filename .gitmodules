@@ -1,4 +1,0 @@
-[submodule "parent_project/submodule_child"]
-	path = parent_project/submodule_child
-	url = https://github.com/duri600/submodule_child.git
-	branch = project2_only
