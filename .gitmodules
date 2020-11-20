@@ -1,4 +1,8 @@
 [submodule "submodule_child"]
 	path = submodule_child
 	url = https://github.com/duri600/submodule_child.git
-	branch = project2_only
+	branch = project1_only
+[submodule "git_submodule_child"]
+	path = git_submodule_child
+	url = C:\\syooon\\Study\\git_study\\git_submodule\\git_submodule_child
+	branch = main
